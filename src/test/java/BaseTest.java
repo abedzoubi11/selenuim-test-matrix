@@ -3,14 +3,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.*;
-import org.zim.context.ThreadWebDriver;
-import org.zim.context.WebDriverContext;
+import org.matrix.context.ThreadWebDriver;
+import org.matrix.context.WebDriverContext;
 //import selenium.tests.listeners.LogListener;
 //import selenium.tests.listeners.ReportListener;
 //import selenium.tests.util.LoggerUtil;
 //import selenium.tests.util.TestProperties;
 
-import org.zim.infra.TestProperties;
+import org.matrix.infra.TestProperties;
 
 import java.util.concurrent.TimeUnit;
 

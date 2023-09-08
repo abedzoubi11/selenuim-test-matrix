@@ -1,4 +1,4 @@
-package org.zim.context;
+package org.matrix.context;
 
 import org.openqa.selenium.WebDriver;
 
